@@ -1,4 +1,4 @@
-# ChinaTelecom E-surfing 2.0 ONU / Gateway HG260 Password Algorithm
+# ChinaTelecom E-surfing 2.0 Gateway HG260 Admin Password Algorithm
 
 ## 1. Background
 
