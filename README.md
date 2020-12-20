@@ -91,3 +91,7 @@ console.log(testString.split("&").map(x => (decode(x))).join("")); // R1Da6xb3
 ```
 
 :vulcan_salute:
+
+## 4.Code
+
+Download the decode.js and run it in your NodeJS command line. Edit that file to change the IP address if your ONU is not at 192.168.1.1 and you will see the result.
