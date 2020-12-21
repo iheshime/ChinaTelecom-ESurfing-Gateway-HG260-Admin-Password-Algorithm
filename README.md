@@ -90,8 +90,8 @@ const testString = "86&49&72&101&54&98&102&51&";
 console.log(testString.split("&").map(x => (decode(x))).join("")); // R1Da6xb3
 ```
 
-## 4.Code
+## 4. Code
 
-Download the decode.js and run it in your NodeJS command line and you will see the result. Edit that file to change the IP address if your ONU is not at 192.168.1.1,
+Download the decode.js and run it in your NodeJS command line and you will see the result. Edit that file to change the IP address if your ONU is not at 192.168.1.1 .
 
 :vulcan_salute:
